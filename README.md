@@ -86,8 +86,9 @@ Day13
 
 #60daysofudacity
 Day14
-- federated learning via trusted aggregator(MNIST dataset)
-    It
-- federated learning(MNIST dataset)
-
+- federated learning via trusted aggregator(MNIST dataset) - FAILED!
+    https://github.com/sijoonlee/deep_learning/blob/master/private-ai/TrustedAggregator.ipynb
+    I have been trying to figure out why it keeps failing, but there's not much resources to refer
+- federated learning(MNIST dataset) - DONE!
+    https://github.com/sijoonlee/deep_learning/blob/master/private-ai/federated_learning_practice_v2.ipynb
 ```
