@@ -173,6 +173,6 @@ http://cs231n.github.io/assignments2019/assignment3/
 
 #60daysofudaicy
 Day30
-- Complete Style Transfer Notebook from Stanford's cs231n
-
+- Completed Style Transfer Notebook from Stanford's cs231n
+https://github.com/sijoonlee/deep_learning/blob/master/cs231n/StyleTransfer-PyTorch.ipynb
 ```
