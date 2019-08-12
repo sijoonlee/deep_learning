@@ -1,11 +1,10 @@
 # Juphter notebooks for Deep Learning
-
-The resources are mainly from 
-    - Udacity "Secure and Private AI" [github](https://github.com/udacity/private-ai) 
-    - Udacity "Intro to Deep Learning with PyTorch" [github](https://github.com/udacity/deep-learning-v2-pytorch)
-    - Standford "CS231n" [github](http://cs231n.github.io/)
-    - 
-
+  
+The resources are mainly from   
+    - Udacity "Secure and Private AI" [github](https://github.com/udacity/private-ai)   
+    - Udacity "Intro to Deep Learning with PyTorch" [github](https://github.com/udacity/deep-learning-v2-pytorch)  
+    - Standford "CS231n" [github](http://cs231n.github.io/)  
+  
 #60days of udacity log
 
 ```
