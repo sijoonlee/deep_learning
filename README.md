@@ -12,30 +12,30 @@ Hopefully, some might find helpful links.
 
 ### Juphyter Notebooks from Courses  
   
-    **from Udacity**  
-    https://github.com/sijoonlee/deep_learning/tree/master/intro_to_neural_network  
-    https://github.com/sijoonlee/deep_learning/tree/master/intro_to_pytorch  
-    https://github.com/sijoonlee/deep_learning/tree/master/convolutional-neural-networks  
-    https://github.com/sijoonlee/deep_learning/blob/master/style-transfer/  
-    https://github.com/sijoonlee/deep_learning/tree/master/private-ai  
+  **from Udacity**  
+  https://github.com/sijoonlee/deep_learning/tree/master/intro_to_neural_network  
+  https://github.com/sijoonlee/deep_learning/tree/master/intro_to_pytorch  
+  https://github.com/sijoonlee/deep_learning/tree/master/convolutional-neural-networks  
+  https://github.com/sijoonlee/deep_learning/blob/master/style-transfer/  
+  https://github.com/sijoonlee/deep_learning/tree/master/private-ai  
+
+  **from Stanford's cs231n**  
+  https://github.com/sijoonlee/deep_learning/tree/master/cs231n  
   
-    **from Stanford's cs231n**  
-    https://github.com/sijoonlee/deep_learning/tree/master/cs231n  
-  
-    **from Edwith (S.Korea's education platform)**  
-    https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast  
+  **from Edwith (S.Korea's education platform)**  
+  https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast  
   
   
 ### My Own Projects  
   
-    **Notebooks**  
-    https://github.com/sijoonlee/deep_learning/tree/master/Spam-Ham-Classfication  
-    https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast-kingston  
+  **Notebooks**  
+  https://github.com/sijoonlee/deep_learning/tree/master/Spam-Ham-Classfication  
+  https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast-kingston  
   
-    **Applications**  
-    https://github.com/sijoonlee/TempForecastWebApp  
-    https://github.com/sijoonlee/Spam-Ham-Classifying-Web-App  
-  
+  **Applications**  
+  https://github.com/sijoonlee/TempForecastWebApp  
+  https://github.com/sijoonlee/Spam-Ham-Classifying-Web-App  
+
   
 ### Articles, References and useful links ###  
     [PATE code from the the original author(s)](https://github.com/tensorflow/privacy/tree/master/research/pate_2017)  
