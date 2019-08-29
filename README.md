@@ -10,38 +10,43 @@ now I feel comfortable with many of concepts and frameworks in Deep learning fie
 Below are course materials and practices that have been done in **60 days of Udacity**.  
 Hopefully, some might find helpful links.  
 
-### Juphyter Notebooks from Courses  
+    1. Juphyter Notebooks from Courses 
+    2. My Own Projects
+    3. Articles, References and useful links
+    4. Log
+
+### 1. Juphyter Notebooks from Courses  
   
-  **from Udacity**  
+..* **from Udacity**  
   https://github.com/sijoonlee/deep_learning/tree/master/intro_to_neural_network  
   https://github.com/sijoonlee/deep_learning/tree/master/intro_to_pytorch  
   https://github.com/sijoonlee/deep_learning/tree/master/convolutional-neural-networks  
   https://github.com/sijoonlee/deep_learning/blob/master/style-transfer/  
   https://github.com/sijoonlee/deep_learning/tree/master/private-ai  
 
-  **from Stanford's cs231n**  
+..* **from Stanford's cs231n**  
   https://github.com/sijoonlee/deep_learning/tree/master/cs231n  
   
-  **from Edwith (S.Korea's education platform)**  
+..* **from Edwith (S.Korea's education platform)**  
   https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast  
   
   
-### My Own Projects  
+### 2. My Own Projects  
   
-  **Notebooks**  
+..* **Notebooks**  
   https://github.com/sijoonlee/deep_learning/tree/master/Spam-Ham-Classfication  
   https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast-kingston  
   
-  **Applications**  
+..* **Applications**  
   https://github.com/sijoonlee/TempForecastWebApp  
   https://github.com/sijoonlee/Spam-Ham-Classifying-Web-App  
 
   
-### Articles, References and useful links ###  
-    [PATE code from the the original author(s)](https://github.com/tensorflow/privacy/tree/master/research/pate_2017)  
-      - The explanation about PATE in Udacity's course wasn't good enough for me  
-      - I have to look into the actual code to understand how it works  
-  
+### 3. Articles, References and useful links ###  
+..* [PATE code from the the original author(s)](https://github.com/tensorflow/privacy/tree/master/research/pate_2017)  
+  - The explanation about PATE in Udacity's course wasn't good enough for me  
+  - I have to look into the actual code to understand how it works  
+
 ["Image Style Transfer Using CNN", Leon A. Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)  
 - Great article explaining Style Transfer using CNN  
   
@@ -63,7 +68,7 @@ LSTM related resources
 - Here is [the author's codes](https://github.com/aqlaboratory/rgn)  
   
 
-### Log
+### 4. Log
 
 | Day  | Study |
 | :--- | ------ |
