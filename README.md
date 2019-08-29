@@ -10,19 +10,19 @@ now I feel comfortable with many of concepts and frameworks in Deep learning fie
 Below are course materials and practices that have been done in **60 days of Udacity**.  
 Hopefully, some might find helpful links.  
 
-### Materials from Courses  
+### Juphyter Notebooks from Courses  
   
-**Materials from Udacity**  
+**from Udacity**  
 https://github.com/sijoonlee/deep_learning/tree/master/intro_to_neural_network  
 https://github.com/sijoonlee/deep_learning/tree/master/intro_to_pytorch  
 https://github.com/sijoonlee/deep_learning/tree/master/convolutional-neural-networks  
 https://github.com/sijoonlee/deep_learning/blob/master/style-transfer/  
 https://github.com/sijoonlee/deep_learning/tree/master/private-ai  
   
-**Materials from Stanford's cs231n**  
+**from Stanford's cs231n**  
 https://github.com/sijoonlee/deep_learning/tree/master/cs231n  
   
-**Materials from edwith (S.Korea's education platform)**  
+**from Edwith (S.Korea's education platform)**  
 https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast  
   
   
