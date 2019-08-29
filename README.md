@@ -44,8 +44,7 @@ Hopefully, some might find helpful links.
   
 ### 3. Articles, References and useful links ###  
   + [PATE code from the the original author(s)](https://github.com/tensorflow/privacy/tree/master/research/pate_2017)  
-    - The explanation about PATE in Udacity's course wasn't good enough for me  
-    - I have to look into the actual code to understand how it works  
+    - Looking into the actual code deepened my understanding of how PATE works  
 
   + ["Image Style Transfer Using CNN", Leon A. Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)  
     - Great article explaining Style Transfer using CNN  
