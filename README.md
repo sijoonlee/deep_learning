@@ -17,55 +17,55 @@ Hopefully, some might find helpful links.
 
 ### 1. Juphyter Notebooks from Courses  
   
-..* **from Udacity**  
+  + **from Udacity**  
   https://github.com/sijoonlee/deep_learning/tree/master/intro_to_neural_network  
   https://github.com/sijoonlee/deep_learning/tree/master/intro_to_pytorch  
   https://github.com/sijoonlee/deep_learning/tree/master/convolutional-neural-networks  
   https://github.com/sijoonlee/deep_learning/blob/master/style-transfer/  
   https://github.com/sijoonlee/deep_learning/tree/master/private-ai  
 
-..* **from Stanford's cs231n**  
+  + **from Stanford's cs231n**  
   https://github.com/sijoonlee/deep_learning/tree/master/cs231n  
   
-..* **from Edwith (S.Korea's education platform)**  
+  + **from Edwith (S.Korea's education platform)**  
   https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast  
   
   
 ### 2. My Own Projects  
   
-..* **Notebooks**  
+  + **Notebooks**  
   https://github.com/sijoonlee/deep_learning/tree/master/Spam-Ham-Classfication  
   https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast-kingston  
   
-..* **Applications**  
+  + **Applications**  
   https://github.com/sijoonlee/TempForecastWebApp  
   https://github.com/sijoonlee/Spam-Ham-Classifying-Web-App  
 
   
 ### 3. Articles, References and useful links ###  
-..* [PATE code from the the original author(s)](https://github.com/tensorflow/privacy/tree/master/research/pate_2017)  
-  - The explanation about PATE in Udacity's course wasn't good enough for me  
-  - I have to look into the actual code to understand how it works  
+  + [PATE code from the the original author(s)](https://github.com/tensorflow/privacy/tree/master/research/pate_2017)  
+    - The explanation about PATE in Udacity's course wasn't good enough for me  
+    - I have to look into the actual code to understand how it works  
 
-["Image Style Transfer Using CNN", Leon A. Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)  
-- Great article explaining Style Transfer using CNN  
+  + ["Image Style Transfer Using CNN", Leon A. Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)  
+    - Great article explaining Style Transfer using CNN  
   
-[Offical PySyft Tutorials](https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials)  
-- As of August, 2019, the offical documentation of PySyft merely has been done   
-- These tutorials would be helpful  
+  + [Offical PySyft Tutorials](https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials)  
+    - As of August, 2019, the offical documentation of PySyft merely has been done   
+    - These tutorials would be helpful  
   
-Stanford's cs231n   
-- [lecture video collection](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
-- [github page](http://cs231n.github.io)  
+  + Stanford's cs231n   
+    - [lecture video collection](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
+    - [github page](http://cs231n.github.io)  
   
-LSTM related resources  
-- [Understanding LSTMs, Colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
-- [Pack_padded_sequence / Pad_packed_sequence tutorial](https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial)  
-- [Tips of how to feed data into LSTM(RNN) model](https://stackoverflow.com/questions/49466894/how-to-correctly-give-inputs-to-embedding-lstm-and-linear-layers-in-pytorch/49473068#49473068)  
+  + LSTM related resources  
+    - [Understanding LSTMs, Colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
+    - [Pack_padded_sequence / Pad_packed_sequence tutorial](https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial)  
+    - [Tips of how to feed data into LSTM(RNN) model](https://stackoverflow.com/questions/49466894/how-to-correctly-give-inputs-to-embedding-lstm-and-linear-layers-in-pytorch/49473068#49473068)  
   
-["End-to-End Differentiable Learning of Protein Structure", Mohammed AlQuraaishi](https://www.biorxiv.org/content/10.1101/265231v1)  
-- Great use of LSTM  
-- Here is [the author's codes](https://github.com/aqlaboratory/rgn)  
+  + ["End-to-End Differentiable Learning of Protein Structure", Mohammed AlQuraaishi](https://www.biorxiv.org/content/10.1101/265231v1)  
+    - Great use of LSTM  
+    - Here is [the author's codes](https://github.com/aqlaboratory/rgn)  
   
 
 ### 4. Log
