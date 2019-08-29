@@ -5,9 +5,11 @@ The resources are mainly from
     - Udacity "Intro to Deep Learning with PyTorch" [github](https://github.com/udacity/deep-learning-v2-pytorch)  
     - Standford "CS231n" [github](http://cs231n.github.io/)  
   
-#60days of udacity log
+# 60days of udacity log
 
-<p align ="center> <img src = "https://github.com/sijoonlee/deep_learning/raw/master/60-day-badges.png" width = "200"> <p>
+<p align ="center> 
+  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/60-day-badges.png" width = "200"/> 
+</p>
 
 | Day  | Study |
 | :--- | ------ |
