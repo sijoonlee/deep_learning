@@ -7,7 +7,7 @@ The resources are mainly from
   
 # 60days of udacity log
 
-<p align ="center> 
+<p align ="center"> 
   <img src = "https://github.com/sijoonlee/deep_learning/raw/master/60-day-badges.png" width = "200"/> 
 </p>
 
