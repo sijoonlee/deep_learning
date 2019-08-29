@@ -7,7 +7,7 @@ The resources are mainly from
   
 #60days of udacity log
 
-![60 days badge](60-day-badges.png =300x300)
+![60 days badge](60-day-badges.png)
 
 | Day  | Study |
 | :--- | ------ |
