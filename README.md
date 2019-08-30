@@ -189,7 +189,8 @@ Hopefully, some might find helpful links.
 |      | Still Working on my other personal project: RNN using toy dataset (ABCD sequences and 3D structures) |
 |  63  | Fix bugs in [Spam-Ham classification jupyter notebook](https://github.com/sijoonlee/deep_learning/blob/master/Spam-Ham-Classfication/SPAM_Classification_LSTM.ipynb)  |
 |      | Working on [Spam-Ham classification Web application](https://github.com/sijoonlee/Spam-Ham-Classifying-Web-App) |
-|  64  |   |
+|  64  | Working on flask code for Spam-Ham classification Web application |
+|      | Summing up 60 days in one page |
 |  65  |   |
 |  66  |   |
 |  67  |   |
