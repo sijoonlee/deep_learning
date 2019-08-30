@@ -11,7 +11,7 @@ Below are course materials and practices that have been done in **60 days of Uda
 Hopefully, some might find helpful links.  
 
     1. Juphyter Notebooks from Courses 
-    2. My Own Projects
+    2. My Own Works
     3. Articles, References and useful links
     4. Log
 
@@ -31,11 +31,18 @@ Hopefully, some might find helpful links.
   https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast  
   
   
-### 2. My Own Projects  
+### 2. My Own Works  
   
   + **Notebooks**  
+  https://github.com/sijoonlee/deep_learning/blob/master/intro_to_pytorch/Part2%20Study.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/intro_to_pytorch/Part3%20Study.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/intro_to_pytorch/Part5%20Study.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/intro_to_pytorch/Part6%20Study.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/intro_to_pytorch/Part7%20Study.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/private-ai/MNIST-PATE.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/private-ai/federated_learning_practice_v2.ipynb  
   https://github.com/sijoonlee/deep_learning/tree/master/Spam-Ham-Classfication  
-  https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast-kingston  
+  https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast-kingston
   
   + **Applications**  
   https://github.com/sijoonlee/TempForecastWebApp  
@@ -54,8 +61,8 @@ Hopefully, some might find helpful links.
     - These tutorials would be helpful  
   
   + Stanford's cs231n   
-    - [lecture video collection](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
-    - [github page](http://cs231n.github.io)  
+    - [Lecture video collection](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
+    - [Github page](http://cs231n.github.io)  
   
   + LSTM related resources  
     - [Understanding LSTMs, Colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
