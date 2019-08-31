@@ -191,7 +191,8 @@ Hopefully, some might find helpful links.
 |      | Working on [Spam-Ham classification Web application](https://github.com/sijoonlee/Spam-Ham-Classifying-Web-App) |
 |  64  | Working on flask code for Spam-Ham classification Web application |
 |      | Summing up 60 days in one page |
-|  65  |   |
+|  65  | Working on flask code for Spam-Ham classification Web application |
+|      | sqlite3 db connection, login/logout, classification and so on |
 |  66  |   |
 |  67  |   |
 |  68  |   |
