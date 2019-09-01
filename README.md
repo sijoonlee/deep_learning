@@ -193,8 +193,3 @@ Hopefully, some might find helpful links.
 |      | Summing up 60 days in one page |
 |  65  | Working on flask code for Spam-Ham classification Web application |
 |      | sqlite3 db connection, login/logout, classification and so on |
-|  66  |   |
-|  67  |   |
-|  68  |   |
-|  69  |   |
-|  70  |   |
