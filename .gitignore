@@ -2,3 +2,5 @@ Cat_Dog_data/
 __pycache__/
 .ipynb_checkpoints/
 data/
+saved_models/
+images/
