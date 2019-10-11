@@ -10,60 +10,71 @@ now I feel comfortable with many of concepts and frameworks in Deep learning fie
 Below are course materials and practices that have been done in **60 days of Udacity**.  
 Hopefully, some might find helpful links.  
 
-### Juphyter Notebooks from Courses  
+    1. Juphyter Notebooks from Courses 
+    2. My Own Works
+    3. Articles, References and useful links
+    4. Log
+
+### 1. Juphyter Notebooks from Courses  
   
-**from Udacity**  
-https://github.com/sijoonlee/deep_learning/tree/master/intro_to_neural_network  
-https://github.com/sijoonlee/deep_learning/tree/master/intro_to_pytorch  
-https://github.com/sijoonlee/deep_learning/tree/master/convolutional-neural-networks  
-https://github.com/sijoonlee/deep_learning/blob/master/style-transfer/  
-https://github.com/sijoonlee/deep_learning/tree/master/private-ai  
+  + **from Udacity**  
+  https://github.com/sijoonlee/deep_learning/tree/master/intro_to_neural_network  
+  https://github.com/sijoonlee/deep_learning/tree/master/intro_to_pytorch  
+  https://github.com/sijoonlee/deep_learning/tree/master/convolutional-neural-networks  
+  https://github.com/sijoonlee/deep_learning/blob/master/style-transfer/  
+  https://github.com/sijoonlee/deep_learning/tree/master/private-ai  
+
+  + **from Stanford's cs231n**  
+  https://github.com/sijoonlee/deep_learning/tree/master/cs231n  
   
-**from Stanford's cs231n**  
-https://github.com/sijoonlee/deep_learning/tree/master/cs231n  
-  
-**from Edwith (S.Korea's education platform)**  
-https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast  
-  
-  
-### My Own Projects  
-  
-**Notebooks**  
-https://github.com/sijoonlee/deep_learning/tree/master/Spam-Ham-Classfication  
-https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast-kingston  
-  
-**Applications**  
-https://github.com/sijoonlee/TempForecastWebApp  
-https://github.com/sijoonlee/Spam-Ham-Classifying-Web-App  
+  + **from Edwith (S.Korea's education platform)**  
+  https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast  
   
   
-### Articles, References and useful links ###  
-[PATE code from the the original author(s)](https://github.com/tensorflow/privacy/tree/master/research/pate_2017)  
-- The explanation about PATE in Udacity's course wasn't good enough for me  
-- I have to look into the actual code to understand how it works  
+### 2. My Own Works  
   
-["Image Style Transfer Using CNN", Leon A. Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)  
-- Great article explaining Style Transfer using CNN  
+  + **Notebooks**  
+  https://github.com/sijoonlee/deep_learning/blob/master/intro_to_pytorch/Part2%20Study.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/intro_to_pytorch/Part3%20Study.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/intro_to_pytorch/Part5%20Study.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/intro_to_pytorch/Part6%20Study.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/intro_to_pytorch/Part7%20Study.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/private-ai/MNIST-PATE.ipynb  
+  https://github.com/sijoonlee/deep_learning/blob/master/private-ai/federated_learning_practice_v2.ipynb  
+  https://github.com/sijoonlee/deep_learning/tree/master/Spam-Ham-Classfication  
+  https://github.com/sijoonlee/deep_learning/tree/master/rnn-weather-forcast-kingston
   
-[Offical PySyft Tutorials](https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials)  
-- As of August, 2019, the offical documentation of PySyft merely has been done   
-- These tutorials would be helpful  
+  + **Applications**  
+  https://github.com/sijoonlee/TempForecastWebApp  
+  https://github.com/sijoonlee/Spam-Ham-Classifying-Web-App  
+
   
-Stanford's cs231n   
-- [lecture video collection](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
-- [github page](http://cs231n.github.io)  
+### 3. Articles, References and useful links ###  
+  + [PATE code from the the original author(s)](https://github.com/tensorflow/privacy/tree/master/research/pate_2017)  
+    - Looking into the actual code deepened my understanding of how PATE works  
+
+  + ["Image Style Transfer Using CNN", Leon A. Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)  
+    - Great article explaining Style Transfer using CNN  
   
-LSTM related resources  
-- [Understanding LSTMs, Colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
-- [Pack_padded_sequence / Pad_packed_sequence tutorial](https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial)  
-- [Tips of how to feed data into LSTM(RNN) model](https://stackoverflow.com/questions/49466894/how-to-correctly-give-inputs-to-embedding-lstm-and-linear-layers-in-pytorch/49473068#49473068)  
+  + [Offical PySyft Tutorials](https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials)  
+    - As of August, 2019, the offical documentation of PySyft merely has been done   
+    - These tutorials would be helpful  
   
-["End-to-End Differentiable Learning of Protein Structure", Mohammed AlQuraaishi](https://www.biorxiv.org/content/10.1101/265231v1)  
-- Great use of LSTM  
-- Here is [the author's codes](https://github.com/aqlaboratory/rgn)  
+  + Stanford's cs231n   
+    - [Lecture video collection](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
+    - [Github page](http://cs231n.github.io)  
+  
+  + LSTM related resources  
+    - [Understanding LSTMs, Colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
+    - [Pack_padded_sequence / Pad_packed_sequence tutorial](https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial)  
+    - [Tips of how to feed data into LSTM(RNN) model](https://stackoverflow.com/questions/49466894/how-to-correctly-give-inputs-to-embedding-lstm-and-linear-layers-in-pytorch/49473068#49473068)  
+  
+  + ["End-to-End Differentiable Learning of Protein Structure", Mohammed AlQuraaishi](https://www.biorxiv.org/content/10.1101/265231v1)  
+    - Great use of LSTM  
+    - Here is [the author's codes](https://github.com/aqlaboratory/rgn)  
   
 
-### Log
+### 4. Log
 
 | Day  | Study |
 | :--- | ------ |
@@ -178,10 +189,7 @@ LSTM related resources
 |      | Still Working on my other personal project: RNN using toy dataset (ABCD sequences and 3D structures) |
 |  63  | Fix bugs in [Spam-Ham classification jupyter notebook](https://github.com/sijoonlee/deep_learning/blob/master/Spam-Ham-Classfication/SPAM_Classification_LSTM.ipynb)  |
 |      | Working on [Spam-Ham classification Web application](https://github.com/sijoonlee/Spam-Ham-Classifying-Web-App) |
-|  64  |   |
-|  65  |   |
-|  66  |   |
-|  67  |   |
-|  68  |   |
-|  69  |   |
-|  70  |   |
+|  64  | Working on flask code for Spam-Ham classification Web application |
+|      | Summing up 60 days in one page |
+|  65  | Working on flask code for Spam-Ham classification Web application |
+|      | sqlite3 db connection, login/logout, classification and so on |
