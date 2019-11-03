@@ -33,7 +33,7 @@ class DecoderRNN(nn.Module):
         
         # captions[:,:-1] # batch_size, caption_length - 1 to exclude <end>
         # -> batch_size, caption_length -1, embed_size
-        caption_embed = self.embedding(captions)
+        caption_embed = self.embedding(captions[:,:-1])
        
         # concat img features and caption
         # features.unsqueeze(1) : batch_size, 1, embed_size
@@ -41,34 +41,33 @@ class DecoderRNN(nn.Module):
         # -> batch_size, caption_length, embed_size
         combined_embed = torch.cat((features.unsqueeze(1), caption_embed), dim=1) 
         
-        output, _ = self.lstm(combined_embed)
+        output, _ = self.lstm(combined_embed) # "unrolled" connection
         
-        #output = self.linear(output)
-        
-        output = self.linear(output[:,:-1,:])
-        
+        output = self.linear(output)
         
         return output
         
 
     def sample(self, inputs, states=None, max_len=20): # input: 1,1,embed_size
         " accepts pre-processed image tensor (inputs) and returns predicted sentence (list of tensor ids of length max_len) "
-        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
         list = []
         for i in range(max_len):
-            output, _ = self.lstm(inputs) # output: 1,1,hidden_size
+
+            # "rolled" connection to generate one word after one word
+            output, states = self.lstm(inputs, states) # output: 1,1,hidden_size
+            
             output = self.linear(output) # output: 1,1,vocab_size
-            #output = output.squeeze(1) # output: 1,vocab_size
-            # output = torch.argmax(output, dim=1) # find the most probable
-            top_p, top_class = output.topk(1, dim=2)
+
+            _, top_class = output.topk(1, dim=2)
             
             list.append(top_class.item()) # change type into python int and append it
             
             if(top_class.item() == 1): # if <end> found
                 break
             
-            inputs = self.embedding(top_class) # 1,embed_size
-            inputs = inputs.squeeze(0)
-            #inputs = inputs.unsqueeze(1) # 1,1,embed_size
+            inputs = self.embedding(top_class) # 1,1,1,embed_size
+
+            inputs = inputs.squeeze(2) # 1,1,embed_size
 
         return list
