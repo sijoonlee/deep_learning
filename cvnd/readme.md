@@ -1,3 +1,9 @@
+
+![Certificate](certificate.svg)
+<p align ="center"> 
+  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/cvnd/certificate.svg" width = "200"/> 
+</p>
+
 ## Project List
 - Notebooks came from Udacity's Computer Vision Nanodegree  
 - Finished All Projects in Computer Vision Nanodegree - 19th, Nov, 2019  
