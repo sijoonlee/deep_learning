@@ -4,7 +4,7 @@
 
 # [60 days of Udacity](https://github.com/sijoonlee/deep_learning/raw/master/60_days)
 
-**60 days of Udacity** was the part of **Secure and Private AI Facebook Scholarship Challenge**
+**60 days of Udacity** was the part of **Secure and Private AI Facebook Scholarship Challenge**  
 I barely knew what the deep learning is at the beginning of this summer, 2019.  
 But after taking Secure and Private AI challenge in Udacity,  
 now I feel comfortable with many of concepts and frameworks in Deep learning field.  
@@ -13,7 +13,7 @@ Hopefully, some might find helpful links in [my log](https://github.com/sijoonle
 
 
 <p align ="center"> 
-  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/certificate.jpg" width = "200"/> 
+  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/cvnd/certificate.jpg" width = "200"/> 
 </p>
 
 # [Computer Vision Nano Degree](https://github.com/sijoonlee/deep_learning/tree/master/cvnd)
