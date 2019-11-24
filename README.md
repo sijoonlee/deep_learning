@@ -13,7 +13,7 @@ Hopefully, some might find helpful links in [my log](https://github.com/sijoonle
 
 
 <p align ="center"> 
-  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/certificate.svg" width = "200"/> 
+  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/certificate.jpg" width = "200"/> 
 </p>
 
 # [Computer Vision Nano Degree](https://github.com/sijoonlee/deep_learning/tree/master/cvnd)

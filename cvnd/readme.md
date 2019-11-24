@@ -1,7 +1,5 @@
-
-![Certificate](certificate.svg)
 <p align ="center"> 
-  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/cvnd/certificate.svg" width = "200"/> 
+  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/cvnd/certificate.jpg" width = "200"/> 
 </p>
 
 ## Project List
