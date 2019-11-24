@@ -1,5 +1,5 @@
 <p align ="center"> 
-  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/60-day-badges.png" width = "200"/> 
+  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/60_days/60-day-badges.png" width = "200"/> 
 </p>
 
 # 60 days of Udacity  
