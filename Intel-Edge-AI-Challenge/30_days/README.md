@@ -15,3 +15,5 @@ Day 1 Started from February 2nd!
 |  04  | [Coding for Lesson 5](https://github.com/sijoonlee/deep_learning/tree/master/Intel-Edge-AI-Challenge/Lesson5) Deploying an Edge App |
 |  05  | [Coding for Lesson 5](https://github.com/sijoonlee/deep_learning/tree/master/Intel-Edge-AI-Challenge/Lesson5) Deploying an Edge App |
 |  06  | [Coding for Lesson 5](https://github.com/sijoonlee/deep_learning/tree/master/Intel-Edge-AI-Challenge/Lesson5) Deploying an Edge App |
+|  07  | [Coding for Lesson 5](https://github.com/sijoonlee/deep_learning/tree/master/Intel-Edge-AI-Challenge/Lesson5) Deploying an Edge App |
+|      | Finished the foundation course! |
