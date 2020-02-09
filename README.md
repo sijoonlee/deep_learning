@@ -32,7 +32,7 @@ Based upon it, my walk-through article was publised on medium.
 [This link](https://github.com/sijoonlee/spam-ham-walkthrough) provides the code for the walkthrough  
   
   
-# Intel Edge AI Scholarship Challenge
+# [Intel Edge AI Scholarship Challenge](https://github.com/sijoonlee/deep_learning/tree/master/Intel-Edge-AI-Challenge)  
   
 <p align ="center"> 
   <img src = "https://github.com/sijoonlee/deep_learning/raw/master/Intel-Edge-AI-Challenge/certificate-participant-bleed-1200x900.jpg" width = "300"/> 
