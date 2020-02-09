@@ -30,3 +30,13 @@ Based upon it, my walk-through article was publised on medium.
   
 [This link](https://medium.com/analytics-vidhya/spam-ham-classification-using-lstm-in-pytorch-950daec94a7c) is my article published on medium  
 [This link](https://github.com/sijoonlee/spam-ham-walkthrough) provides the code for the walkthrough  
+  
+  
+# Intel Edge AI Scholarship Challenge
+  
+<p align ="center"> 
+  <img src = "https://github.com/sijoonlee/deep_learning/raw/master/Intel-Edge-AI-Challenge/certificate-participant-bleed-1200x900.jpg" width = "300"/> 
+</p>  
+  
+This is **Intel Edge AI Scholarship Foundation Course**.  
+Here's [30 days of Udacity challenge](https://github.com/sijoonlee/deep_learning/tree/master/Intel-Edge-AI-Challenge/30_days)
