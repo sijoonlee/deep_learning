@@ -19,4 +19,4 @@ Day 1 Started from February 2nd!
 |      | Finished the foundation course! |
 |  08  | Studying "Intro to TensorFlow for Deep Learning" course from Udacity |
 |      | on Lesson 3, Your First Model - Fashion MNIST |
-|  09  | Still Studying on Lesson 3, Your First Model - Fashion MNIST |
+|  09  | Still Studying on [Lesson 3, Your First Model - Fashion MNIST](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
