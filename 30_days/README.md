@@ -1,13 +1,11 @@
 
 # 30 days of Udacity  
 
-This is the part of *Intel Edge AI Scholarship Challenge*
-
-Day 1 Started from February 2nd!
+Day 1 Started from February 2nd, 2020!
 
 | Day  | Study |
 | :--- | ------ |
-|  01  | Pledge taken |
+|  01  | Pledge taken - *Intel Edge AI Scholarship Challenge* |
 |      | [Coding for Lesson 2](https://github.com/sijoonlee/deep_learning/tree/master/Intel-Edge-AI-Challenge/Lesson2) Leveraging Pre-Trained Models |
 |  02  | [Coding for Lesson 3]((https://github.com/sijoonlee/deep_learning/tree/master/Intel-Edge-AI-Challenge/Lesson3)) The Model Optimizer |
 |      | Reference) https://github.com/david-drew/OpenVINO-Custom-Layers |
@@ -21,3 +19,4 @@ Day 1 Started from February 2nd!
 |      | on Lesson 3, Your First Model - Fashion MNIST |
 |  09  | Still Studying on [Lesson 3, Your First Model - Fashion MNIST](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
 |  10  | Studying on [Lesson 4, Introduction to CNNs](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
+|  11  | Studying on [Lesson 5, Going Further With CNNs](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
