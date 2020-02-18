@@ -24,3 +24,4 @@ Day 1 Started from February 2nd, 2020!
 |  13  | Studying on [Lesson 5, Going Further With CNNs](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
 |  14  | Finished [Lesson 5, Going Further With CNNs](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
 |  15  | Studying on [Lesson 6, Transfer Learning](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
+|  16  | Finished [Lesson 6, Transfer Learning](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
