@@ -26,3 +26,4 @@ Day 1 Started from February 2nd, 2020!
 |  15  | Studying on [Lesson 6, Transfer Learning](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
 |  16  | Finished [Lesson 6, Transfer Learning](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
 |  17  | Finished [Lesson 7, Saving and Loading Models](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
+|  18  | Studying on [Lesson 8, Time Series Forecasting](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
