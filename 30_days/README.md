@@ -32,3 +32,4 @@ Day 1 Started from February 2nd, 2020!
 |  21  | Studying on [Lesson 8, Time Series Forecasting](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
 |  22  | Studying on [Lesson 8, Time Series Forecasting](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
 |  23  | Studying on [Lesson 8, Time Series Forecasting](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
+|  24  | Studying on [Lesson 8, Time Series Forecasting](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
