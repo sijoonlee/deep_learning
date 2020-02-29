@@ -35,3 +35,4 @@ Day 1 Started from February 2nd, 2020!
 |  24  | Studying on [Lesson 8, Time Series Forecasting](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow) |
 |  25  | Start Udacity's Introduction to TensorFlow Lite, Studying on Lesson 2 |
 |  26  | Studying on Lesson 2 |
+|  27  | Studying on [Lesson 2, Introduction to Tensorflow lite](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow-Lite) |
