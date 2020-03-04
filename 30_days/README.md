@@ -38,3 +38,4 @@ Day 1 Started from February 2nd, 2020!
 |  27  | Studying on [Lesson 2, Introduction to Tensorflow lite](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow-Lite) |
 |  28  | Studying on [Lesson 2, Introduction to Tensorflow lite](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow-Lite) |
 |  29  | Finished [Lesson 2, Introduction to Tensorflow lite](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow-Lite) |
+|  30  | Studying on [Lesson 3, TF lite on Android](https://github.com/sijoonlee/deep_learning/tree/master/Intro-to-TensorFlow-Lite) |
